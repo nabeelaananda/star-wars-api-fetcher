@@ -27,11 +27,11 @@ This is my **5th Python learning project**, built to practice fundamental progra
       ```bash
       git clone https://github.com/USERNAME_KAMU/star-wars-api-fetcher.git
 2.  **Navigate to the project directory**
-      ``bash
-       cd star-wars-api-fetcher
+      ```bash
+      cd star-wars-api-fetcher
 3.  **Make sure you have the requests library installed**
       ```bash
-       pip install requests
+      pip install requests
 4.  **Run the script**
       ```bash
       python main.py
